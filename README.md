@@ -1,5 +1,5 @@
 # Odoo best practice
-In this repository, you'll find all the different best practices of Odoo development, from performance optimizations to code clarity and much more...
+In this repository, you'll find all the different <b>"best"</b> practices of Odoo development, from performance optimizations to code clarity and much more...
 
 #### Avoid Using Boolean Fields
 
@@ -41,16 +41,9 @@ def action_read_account(self):
 ```
 
 ## Contributors
-
 ![Image des contributeurs GitHub](https://contrib.rocks/image?repo=rivo2302/Odoo-Development-Anti-Patterns)
 
-Share your "best" Odoo development techniques here. Make a PR and become a legend in the realm of anti-patterns. Let's set new standards for how not to code!
-
+Share your <b>"best"</b> Odoo development techniques here , Make a <b>PR</b> . Let's set new standards for how  to code!
 
 ## Show your support
  Give a star 🌟 if this project helped you!
-   
-   
-## License
-
-Copyright (c) 2021 [rivo2302](https://www.linkedin.com/in/rajaonarivony/)
